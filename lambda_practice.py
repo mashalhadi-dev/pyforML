@@ -1,6 +1,6 @@
-from functools import reduce 
+# from functools import reduce 
 
-numbers = [1,2,3,4,5]
+# numbers = [1,2,3,4,5]
 
 # doubled= list(map(lambda x: x*2, numbers))
 # print("Doubled numbers:", doubled)
@@ -14,5 +14,5 @@ numbers = [1,2,3,4,5]
 # square= list(map(lambda x: x**2, numbers))
 # print("Squares:", square)
 
-greater_than3 = list(filter(lambda x: x > 3, numbers))
-print("Numbers greater than 3:", greater_than3)
+# greater_than3 = list(filter(lambda x: x > 3, numbers))
+# print("Numbers greater than 3:", greater_than3)
